@@ -1,0 +1,155 @@
+.btn{
+    width:160px;
+}
+.col-md-4 h1{
+    font-size: 80px;
+}
+.col-md-3 i{
+    font-size: 70px;
+}
+/* .btnlis nav .nav-link{
+    box-shadow: 0px 0px 5px 2px #B71375;
+      color: brown;
+      width: 180px;     
+} */
+.about table{
+    border: none;
+    background-color: blue;
+}
+.carousel-caption h1,p{
+    color: black;
+}   
+
+.col-md-6 .card{
+    margin: 10px;
+}
+
+.col-sm-2 .fa{
+    transition: 0.7s  ease-in-out;
+}
+
+.col-sm-2 .fa:hover{
+    color: orangered;
+    padding-top: 30px;
+}
+.container h1:hover{
+    color: orangered;
+}
+.container-fluid h1{
+    color: rgb(17, 17, 63);
+    transition: 1.4s;
+}
+.container-fluid h1:hover{
+    color: rgba(3, 50, 88, 0.742);
+}
+/* .navbar li a{
+    transition: 1.0s;
+    color: rgb(0, 0, 0);
+}
+.navbar ul li a:hover{
+    color: orangered;
+    border-bottom: 3px solid orangered;
+} */
+.col-sm-10 h4{
+    transition: 1.0s;
+
+}
+.card .col-sm-10 h4:hover{
+    color: orangered;
+    padding: 10px;
+    max-zoom: 10px;
+}
+.wht h1{
+    transition: 1.0s;
+    color: white ;
+}
+.wht h1:hover {
+    color: orangered;
+}
+.container .card{
+    transition: 1.2s;
+}
+.container .card:hover{
+    background-color: #ffeae1;
+    border-top: 3px solid orangered;
+    border-bottom: 3px solid orangered;
+}
+/* .btnlis   #nav-tabContent .table tr{
+    transition: 3.0s; 
+}*/
+
+
+/* .btnlis  #nav-tabContent .table tr:hover{
+    color: orangered;
+} */
+
+
+/* .btnlis .tab-content .table tr{
+    transition: 2.0s;
+}
+
+.btnlis .tab-content .table tr:hover{
+    color: orangered;
+} */
+
+/* .navbar ul li a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    text-decoration: none;
+  }
+  /* .navbar ul li a:hover {
+
+  } */
+  
+  /* body {
+    margin: 0;
+    background-color: #f1f1f1;
+    font-family: Arial, Helvetica, sans-serif;
+  } */
+  
+  #navbar {
+    background:rgba(12, 12, 69, 0.557);
+    position: fixed;
+    top: -90px;
+    width: 100%;
+    /* display: block; */
+    height: 70px;
+    transition: top 0.8s;
+    z-index: 1;
+  }
+    
+  #navbar a {
+    float: left;
+    display: block;
+    /* color: white; */
+    text-align: center;
+    padding: 10px;
+    font-size: 17px;
+  }
+#navbar .navbar ul li a:hover {
+    color: orangered;
+    border-bottom: 2px solid orangered;
+    
+  }
+ #navbar .navbar ul li a{
+    color: orangered;
+ }
+ .navbar a img{
+    width: 150px;
+ }
+ #back .container-fluid{
+    background: rgba(21, 21, 64, 0.554);
+ }
+ #buss .container-fluid{
+    background: rgba(21, 21, 64, 0.507);
+ }
+ #buss .container-fluid h1{
+    color: white;
+
+ }
+
+
+

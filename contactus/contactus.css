@@ -1,0 +1,69 @@
+header .main{
+    color: white;
+    background: rgba(12, 12, 69, 0.557);
+    padding-bottom: 120px;
+}
+.col-md-3 .card{
+    text-align: center;
+    padding: 10px;
+}
+.col-md-3 .card i{
+    color: #03C988;
+    font-size: 40px;   
+}
+#logodown .part3{
+    background: rgba(11, 11, 37, 0.636);
+    padding: 60px;
+}
+.col-md-6 input{
+    background-color:  whitesmoke;
+    border: none;
+}
+.form-floating textarea{
+    background-color:  whitesmoke;
+    border: none;
+}
+.col-md-3 .card{
+    transition: 0.5s;
+}
+.col-md-3 .card:hover{
+    margin-top: -30px;
+}
+#cardsss{
+    margin-top: -50px;
+}
+.navbar ul li a{
+    color: white;
+    transition: 0.9s;
+}
+.navbar ul li a:hover{
+    color: orangered;
+    border-bottom: 2px solid orangered;
+}
+#navbar {
+    background:rgba(12, 12, 69, 0.557);
+    position: fixed;
+    top: -90px;
+    width: 100%;
+    height: 70px;
+    transition: top 0.8s;
+    z-index: 1;
+}   
+  #navbar a {
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 10px;
+    font-size: 17px;
+}
+#navbar .navbar ul li a:hover {
+    color: orangered;
+    border-bottom: 2px solid orangered;
+    
+}
+ #navbar .navbar ul li a{
+    color: white;
+ } 
+ .navbar a img{
+    width: 150px;
+ }

@@ -1,0 +1,79 @@
+header .main{
+    background: rgba(10, 10, 35, 0.642);
+    padding-bottom: 80px;
+    color: white;
+    
+}
+.main h1{
+    padding-bottom: 100px;
+    padding-top: 60px;
+    font-size: 60px;
+}
+.btnlis .navbar-nav a{
+    color:white;
+}
+
+.col-md-6 .font-1{
+    border: 1ps solid whitesmoke; 
+    background-color: whitesmoke;
+    font-size: 80px; 
+    width: 140px;
+    padding: 20px;
+    border-radius: 10px;
+    color:rgb(102, 210, 174);   
+}
+#sec2{
+    color: white;
+}
+#sec2 .part-2{
+    background-color: rgba(27, 27, 67, 0.722);
+    padding: 30px;
+}
+@media screen and (max-width: 1200px) {
+    #sec2 .part-2{
+        background-color: rgba(27, 67, 38, 0.722);
+        padding: 30px;
+    }
+  }
+  
+#logodown{
+    background: url(/uploads/pexels-photo-669609.jpeg);
+}
+#logodown .part3{
+    padding: 70px;
+    width: 100%;
+    background: rgba(15, 15, 69, 0.703);
+}
+.navbar ul li a:hover{
+    color: orangered;
+    border-bottom: 2px solid orangered;
+}
+#navbar {
+    background:rgba(12, 12, 69, 0.557);
+    position: fixed;
+    top: -90px;
+    width: 100%;
+    height: 70px;
+    transition: top 0.8s;
+    z-index: 1;
+  }
+
+    
+  #navbar a {
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 10px;
+    font-size: 17px;
+  }
+#navbar .navbar ul li a:hover {
+    color: orangered;
+    border-bottom: 2px solid orangered;
+    
+  }
+ #navbar .navbar ul li a{
+    color: white;
+ } 
+ .navbar a img{
+    width: 150px;
+ }
